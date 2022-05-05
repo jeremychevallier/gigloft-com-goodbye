@@ -52,7 +52,7 @@ studentTestimonialsGroup.innerHTML = `
   <div class="card testimonial-card shadow-9 offset-md-1 col-md-5 col-sm-8 col-12 mr-10">
 
     <p class="fs-20 mb-0 mb-md-2 text-black">
-      GigLoft has really <span class="semib text-pink">helped me <a href="/teaches/freelance-mindset" target="_blank">develop the right mindset</a></span> when it comes to running a freelance business. There’s so much to learn from the entire experience. <span class="semib text-pink">I’m forever grateful for the value and mentorship</span> I’ve received.
+      GigLoft has really <span class="semib text-pink">helped me <a href="/teaches/entrepreneurial-mindset" target="_blank">develop the right mindset</a></span> when it comes to running a freelance business. There’s so much to learn from the entire experience. <span class="semib text-pink">I’m forever grateful for the value and mentorship</span> I’ve received.
     </p>
 
     <div class="media align-items-center">

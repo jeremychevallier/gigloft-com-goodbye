@@ -13,13 +13,13 @@ elNavbar.innerHTML = `
       <div class="">
         <section id="nav-tray" class="navbar-mobile">
           <nav class="nav nav-navbar">
-            <div class="">
+            <!--<div class="">
               <a href="/"><h5 class="navbar-heading text-blue">Learn about GigLoft</h5></a>
               <a href="/mentor"><h5 class="navbar-heading text-purple">Become a mentor</h5></a>
               <a href="/hire"><h5 class="navbar-heading text-red">Hire our graduates</h5></a>
               <a href="/refer"><h5 class="navbar-heading text-pink">Refer students! Get $$$</h5></a>
-            </div>
-            <div class="border-top mt-4 pt-4">
+            </div>-->
+            <div class="mt-4 pt-4">
               <a href="/learn.html"><h5 class="navbar-heading text-green">Start learning free!</h5></a>
               <a class="nav-link" href="/teaches/fundamentals-of-freelance">🏁 Starting From Scratch</a>
               <a class="nav-link" href="/teaches/entrepreneurial-mindset">🙇‍♀️ Entrepreneurial Mindset</a>
@@ -53,7 +53,7 @@ elFooter.innerHTML = `
     <a href="/teaches/fundamentals-of-freelance"><img class="content-card teachings shadow-sm corners-5px h-auto" src="../assets/img/OG-image-freelance-fundamentals.png" /></a>
   </div>
   <div class="flex-md-fill pb-5 mx-2">
-    <a href="/teaches/freelance-mindset"><img class="content-card teachings shadow-sm corners-5px h-auto" src="../assets/img/OG-image-mindset.png" /></a>
+    <a href="/teaches/entrepreneurial-mindset"><img class="content-card teachings shadow-sm corners-5px h-auto" src="../assets/img/OG-image-mindset.png" /></a>
   </div>
   <div class="flex-md-fill pb-5 mx-2">
     <a href="/teaches/getting-clients"><img class="content-card teachings shadow-sm corners-5px h-auto" src="../assets/img/OG-image-getting-clients.png" /></a>
