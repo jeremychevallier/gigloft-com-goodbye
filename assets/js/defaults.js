@@ -103,7 +103,7 @@ elFooter.innerHTML = `
   </div>
 
   <div class="d-flex justify-content-center text-center w-100 pt-6">
-    <small>&copy; 2018-2020 &nbsp;<img height="15" width="15" src="../assets/img/favicon.png" alt="gigloft logo"> &nbsp;GigLoft Inc. • <a class="" href="/policies/privacy">Privacy</a></small>
+    <small>&copy; 2018-2022 &nbsp;<img height="15" width="15" src="../assets/img/favicon.png" alt="gigloft logo"> &nbsp;GigLoft Inc.</small>
   </div>
 
 </div>
